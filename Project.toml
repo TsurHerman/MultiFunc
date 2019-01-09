@@ -1,0 +1,6 @@
+authors = ["Tsur Herman <tsur@augmedics.com>"]
+name = "MultiFunc"
+uuid = "30114f5e-142b-11e9-3b5d-bb0ff3fa480b"
+version = "0.1.0"
+
+[deps]
